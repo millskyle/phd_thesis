@@ -1,0 +1,24 @@
+font.family: serif
+font.serif: 'Tex Gyre Pagella', Palatino
+font.size: 12
+
+
+text.usetex: True
+
+
+axes.prop_cycle  : cycler('color', 'e8554e,f19c65,2aa876,0a7b83,0a5583,7b519c,  ff8c8c,ffb88c,fffd8c,c0ff8c,8cffec,8cb4ff,c48cff')
+axes.linewidth: 1
+axes.grid: False
+axes.titley: 0.8
+
+
+
+xtick.major.width: 1
+ytick.major.width: 1
+
+
+
+
+
+figure.figsize: 6.16666, 4
+figure.autolayout: True
